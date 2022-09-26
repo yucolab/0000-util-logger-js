@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/jimz/.nvm/versions/node/v18.7.0/bin/node /Users/jimz/storeroom/gitlab/yucolab/sysadmin/tmp-scripts/node-js/0000-util-logger-js/.yarn/releases/yarn-1.22.19.cjs set version update
+
+PATH: 
+  /Users/jimz/.nvm/versions/node/v18.7.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.7.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: Release not found: update
+      at /Users/jimz/storeroom/gitlab/yucolab/sysadmin/tmp-scripts/node-js/0000-util-logger-js/.yarn/releases/yarn-1.22.19.cjs:94385:17
+      at Generator.next (<anonymous>)
+      at step (/Users/jimz/storeroom/gitlab/yucolab/sysadmin/tmp-scripts/node-js/0000-util-logger-js/.yarn/releases/yarn-1.22.19.cjs:310:30)
+      at /Users/jimz/storeroom/gitlab/yucolab/sysadmin/tmp-scripts/node-js/0000-util-logger-js/.yarn/releases/yarn-1.22.19.cjs:321:13
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+npm manifest: 
+  {
+    "name": "0000-util-logger-js",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

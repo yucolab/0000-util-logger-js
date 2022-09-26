@@ -1,0 +1,14 @@
+{
+  "name": "0000-util-logger-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.3",
+  "dependencies": {
+    "@aws-sdk/client-cloudwatch-logs": "^3.171.0",
+    "winston": "^3.8.2",
+    "winston-aws-cloudwatch": "^3.0.0",
+    "winston-cloudwatch": "^6.1.1",
+    "winston-daily-rotate-file": "^4.7.1"
+  }
+}

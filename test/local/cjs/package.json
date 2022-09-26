@@ -1,0 +1,10 @@
+{
+  "name": "0000-util-logger-js-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.3",
+  "scripts": {
+    "start": "yarn node index.js"
+  }
+}
