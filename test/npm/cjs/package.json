@@ -1,0 +1,14 @@
+{
+  "name": "test-npm-cjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.3",
+  "dependencies": {
+    "0000-util-logger-js": "^1.0.1",
+    "cross-env": "^7.0.3"
+  },
+  "scripts": {
+    "start": "yarn node index.js"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "npm-test-esm",
+  "packageManager": "yarn@3.2.3",
+  "type": "module",
+  "dependencies": {
+    "0000-util-logger-js": "^1.0.1",
+    "cross-env": "^7.0.3"
+  },
+  "scripts": {
+    "start": "yarn node index.js"
+  }
+}

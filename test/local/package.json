@@ -1,0 +1,11 @@
+{
+  "name": "local",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.3",
+  "workspaces": [
+    "cjs",
+    "esm"
+  ]
+}

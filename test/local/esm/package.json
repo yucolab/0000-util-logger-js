@@ -1,8 +1,9 @@
 {
-  "name": "cjs",
+  "name": "esm",
   "packageManager": "yarn@3.2.3",
   "dependencies": {
     "0000-util-logger-js": "../../../dist",
     "cross-env": "^7.0.3"
-  }
+  },
+  "type": "module"
 }
