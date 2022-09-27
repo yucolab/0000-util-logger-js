@@ -59,6 +59,18 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["winston-daily-rotate-file", "virtual:7d92956449c338fd20fa41481794dec913002e589eb59a0efa8c94937931ff1105e4000d2cd870d0390e9af5ccbb33fde024bede803f0dc882750eba7ec5b993#npm:4.7.1"]\
           ],\
           "linkType": "HARD"\
+        }],\
+        ["npm:1.0.2", {\
+          "packageLocation": "./.yarn/cache/0000-util-logger-js-npm-1.0.2-88cfd16524-cc1603b8bf.zip/node_modules/0000-util-logger-js/",\
+          "packageDependencies": [\
+            ["0000-util-logger-js", "npm:1.0.2"],\
+            ["@aws-sdk/client-cloudwatch-logs", "npm:3.179.0"],\
+            ["winston", "npm:3.8.2"],\
+            ["winston-aws-cloudwatch", "virtual:7d92956449c338fd20fa41481794dec913002e589eb59a0efa8c94937931ff1105e4000d2cd870d0390e9af5ccbb33fde024bede803f0dc882750eba7ec5b993#npm:3.0.0"],\
+            ["winston-cloudwatch", "virtual:7d92956449c338fd20fa41481794dec913002e589eb59a0efa8c94937931ff1105e4000d2cd870d0390e9af5ccbb33fde024bede803f0dc882750eba7ec5b993#npm:6.1.1"],\
+            ["winston-daily-rotate-file", "virtual:7d92956449c338fd20fa41481794dec913002e589eb59a0efa8c94937931ff1105e4000d2cd870d0390e9af5ccbb33fde024bede803f0dc882750eba7ec5b993#npm:4.7.1"]\
+          ],\
+          "linkType": "HARD"\
         }]\
       ]],\
       ["@aws-crypto/ie11-detection", [\
@@ -2043,7 +2055,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./esm/",\
           "packageDependencies": [\
             ["npm-test-esm", "workspace:esm"],\
-            ["0000-util-logger-js", "npm:1.0.1"],\
+            ["0000-util-logger-js", "npm:1.0.2"],\
             ["cross-env", "npm:7.0.3"]\
           ],\
           "linkType": "SOFT"\
