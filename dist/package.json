@@ -1,7 +1,7 @@
 {
-  "name": "0000-util-logger-js",
-  "version": "1.0.2",
-  "descriptions": "amend esm wrapper",
+  "name": "@yucolab/0000-util-logger-js",
+  "version": "1.0.0",
+  "descriptions": "moved from unscoped package",
   "main": "index.js",
   "license": "MIT",
   "packageManager": "yarn@3.2.3",
