@@ -1,8 +1,10 @@
 {
-  "name": "npm-test-cjs",
+  "name": "npm-test-esm",
   "packageManager": "yarn@3.2.3",
+  "type": "module",
   "dependencies": {
-    "@yucolab/0000-util-logger-js": "^1.0.0"
+    "0000-util-logger-js": "^1.0.2",
+    "cross-env": "^7.0.3"
   },
   "scripts": {
     "start": "yarn node index.js"

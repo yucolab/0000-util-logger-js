@@ -7,27 +7,27 @@ __metadata:
 
 "0000-util-logger-js@file:../../../dist::locator=cjs%40workspace%3Acjs":
   version: 1.0.2
-  resolution: "0000-util-logger-js@file:../../../dist#../../../dist::hash=220b06&locator=cjs%40workspace%3Acjs"
+  resolution: "0000-util-logger-js@file:../../../dist#../../../dist::hash=c9d565&locator=cjs%40workspace%3Acjs"
   dependencies:
     "@aws-sdk/client-cloudwatch-logs": ^3.171.0
     winston: ^3.8.2
     winston-aws-cloudwatch: ^3.0.0
     winston-cloudwatch: ^6.1.1
     winston-daily-rotate-file: ^4.7.1
-  checksum: 67cbeb86cccebe1dd00eb7f3994122977cad0ae2773ca84eb515e84290ff1a1c1273b04662b755ba10b27fb8897b508464e4779e0708d2ece0865bfb6cb4bf7a
+  checksum: b33fe53659fae74f763d0d7aed36c9a8d6d8e20e46c6a7e3323110b3a8faae376fdd079bb4782c064e045bb3e18a88e9c93a8abe472fdb2bc9c1fdb56df21ff7
   languageName: node
   linkType: hard
 
 "0000-util-logger-js@file:../../../dist::locator=esm%40workspace%3Aesm":
   version: 1.0.2
-  resolution: "0000-util-logger-js@file:../../../dist#../../../dist::hash=220b06&locator=esm%40workspace%3Aesm"
+  resolution: "0000-util-logger-js@file:../../../dist#../../../dist::hash=c9d565&locator=esm%40workspace%3Aesm"
   dependencies:
     "@aws-sdk/client-cloudwatch-logs": ^3.171.0
     winston: ^3.8.2
     winston-aws-cloudwatch: ^3.0.0
     winston-cloudwatch: ^6.1.1
     winston-daily-rotate-file: ^4.7.1
-  checksum: 67cbeb86cccebe1dd00eb7f3994122977cad0ae2773ca84eb515e84290ff1a1c1273b04662b755ba10b27fb8897b508464e4779e0708d2ece0865bfb6cb4bf7a
+  checksum: b33fe53659fae74f763d0d7aed36c9a8d6d8e20e46c6a7e3323110b3a8faae376fdd079bb4782c064e045bb3e18a88e9c93a8abe472fdb2bc9c1fdb56df21ff7
   languageName: node
   linkType: hard
 

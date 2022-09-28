@@ -1,6 +1,6 @@
 "use strict";
 
-import {util_logger} from '0000-util-logger-js';
+import {util_logger} from '@yucolab/0000-util-logger-js';
 //console.log( util_logger );
 
 import {config_obj} from './config-logger.js';
@@ -8,7 +8,7 @@ import {config_obj} from './config-logger.js';
 
 util_logger.init( config_obj );
 
-const msg = "log msg via remote npm package in esm";
+const msg = "log msg via remote npm package in esm, package now scoped in @yucolab.";
 
 util_logger.all.info( msg );
 
